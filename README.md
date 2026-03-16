@@ -1,6 +1,6 @@
-# Hi 👋, I'm vlaskoss
+# Hi 👋, I'm Vlaskos!
 
-### Aspiring network/sysadmin with experience in multiple programming languages. 
+### Aspiring network/sysadmin with experience in multiple programming languages and virtualisation. 
 --- 
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=lua,html,css,js,py,docker,robloxstudio,vscode,github&theme=dark)
